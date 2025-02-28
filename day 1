@@ -1,0 +1,118 @@
+📌 Summary of TCS NQT Question Paper (12th September 2021 – Slot 1)
+The TCS NQT exam is divided into multiple sections: Numerical Ability, Verbal Ability, Reasoning Ability, Programming Logic, and Hands-on Coding. Below is a detailed summary of the question paper you uploaded.
+
+1️⃣ Numerical Ability (Math & Aptitude Questions)
+This section tests your mathematical and logical problem-solving skills.
+
+🔹 Key Topics Covered:
+✔ Algebra & Equations: Expression simplification, ratio problems
+✔ Number System: LCM, HCF, divisibility rules
+✔ Percentages & Profit-Loss: Successive percentage changes, mark-up price
+✔ Simple & Compound Interest: Interest rate calculations
+✔ Time & Work: Efficiency-based problems
+✔ Speed, Distance & Time: Boats, trains, and motion-based problems
+✔ Data Interpretation: Tables and charts
+
+🔹 Sample Questions:
+1️⃣ Find the value of (a + b + c)² : (a³ + b³ + c³) given certain conditions.
+2️⃣ Determine divisibility of 19541742 by 11, 9, or 12.
+3️⃣ Calculate the price adjustment after a petrol price hike.
+4️⃣ Find the missing term in a numerical series.
+5️⃣ Solve a work-efficiency problem involving two workers.
+
+✅ Difficulty Level: Moderate to High
+✅ Main Focus: Problem-solving speed and accuracy
+
+2️⃣ Verbal Ability (English & Grammar Questions)
+This section tests your English grammar, comprehension, and vocabulary.
+
+🔹 Key Topics Covered:
+✔ Error Spotting: Identify grammatical mistakes in sentences
+✔ Sentence Completion: Fill in blanks with correct words
+✔ Tenses & Prepositions: Choosing correct prepositions and verb forms
+✔ Reading Comprehension: Analyzing passages
+✔ Sentence Ordering (Para Jumbles): Rearranging sentences in logical order
+
+🔹 Sample Questions:
+1️⃣ Identify the grammatical error in: "She were eagerly waiting for the proposal."
+2️⃣ Fill in the blank: "The train arrived ___ time." (Options: at, on, by, after)
+3️⃣ Rearrange the given paragraph about ocean colors.
+4️⃣ Choose correct words to complete a passage about wildlife behavior.
+
+✅ Difficulty Level: Easy to Moderate
+✅ Main Focus: Grammar rules, sentence structure, and comprehension
+
+3️⃣ Reasoning Ability (Logical Thinking & Problem-Solving)
+This section tests logical and analytical reasoning.
+
+🔹 Key Topics Covered:
+✔ Series & Pattern Recognition: Identifying missing terms
+✔ Blood Relations: Family tree-based logical questions
+✔ Seating Arrangements: Circular and linear seating logic
+✔ Syllogisms: Logical deductions based on given premises
+✔ Data Sufficiency: Deciding if given statements are enough to solve a problem
+
+🔹 Sample Questions:
+1️⃣ Find the incorrect term in the letter series: LAT, OES, QIR, SOQ, UUP.
+2️⃣ Who is sitting second to the right of D in a circular arrangement?
+3️⃣ What is the relationship between two people in a coded blood relation question?
+4️⃣ Which statement is sufficient to answer a ranking-based question?
+
+✅ Difficulty Level: Moderate
+✅ Main Focus: Logical deductions, seating arrangements, and pattern recognition
+
+4️⃣ Programming Logic (Coding Theory & Fundamentals)
+This section tests theoretical programming concepts and logic building.
+
+🔹 Key Topics Covered:
+✔ Operators & Expressions: Infix, Postfix conversions
+✔ Data Structures: Stack, Queue, Linked List
+✔ Algorithms: Sorting, Searching, Merge Sort
+✔ Programming Paradigms: Object-Oriented Programming (OOP)
+✔ SDLC Models: Waterfall, Agile, Spiral Model
+
+🔹 Sample Questions:
+1️⃣ Which operator is not a unary operator? (Options: !, ++, &, == )
+2️⃣ Convert an infix expression to postfix.
+3️⃣ Which SDLC model ensures risk analysis? (Answer: Spiral Model)
+4️⃣ Predict output for a given C++/Java code snippet.
+
+✅ Difficulty Level: Moderate
+✅ Main Focus: Coding fundamentals, syntax knowledge, and algorithmic thinking
+
+5️⃣ Hands-on Coding (Python/C/C++ Programming Questions)
+This section requires writing complete programs based on given constraints.
+
+🔹 Key Topics Covered:
+✔ Array Manipulation: Unique minimum sum
+✔ Bitwise Operations: Toggle bits in binary representation
+✔ String Processing: Count difference in * and # characters
+✔ Mathematical Functions: Geometric mean calculation
+✔ Stack Operations: Convert infix to postfix
+
+🔹 Sample Questions:
+1️⃣ Find the minimum sum by making array elements unique.
+2️⃣ Toggle all bits after the most significant bit in a binary number.
+3️⃣ Count imbalance in a string with * and #.
+4️⃣ Convert infix expression to postfix.
+
+✅ Difficulty Level: Moderate to High
+✅ Main Focus: Problem-solving using programming logic
+
+📌 Overall Summary
+Section	Topics Covered	Difficulty Level
+Numerical Ability	Algebra, Profit & Loss, Interest, Time & Work, Speed-Distance	Moderate-High
+Verbal Ability	Grammar, Tenses, Reading Comprehension, Sentence Formation	Easy-Moderate
+Reasoning Ability	Series, Blood Relations, Seating, Syllogisms, Data Sufficiency	Moderate
+Programming Logic	Operators, Data Structures, SDLC Models, Algorithm Logic	Moderate
+Hands-on Coding	Arrays, Bitwise, String Manipulation, Mathematical Logic	Moderate-High
+✅ Time Management Tip:
+
+Focus on Numerical & Coding sections, as they require more time.
+Verbal & Reasoning sections can be solved faster if you practice regularly.
+✅ Preparation Strategy:
+
+Practice previous year TCS NQT papers
+Focus on aptitude tricks & shortcuts
+Improve coding speed on platforms like LeetCode, CodeChef, and HackerRank
+Revise grammar & vocabulary basics for verbal section
