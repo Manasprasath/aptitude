@@ -1,0 +1,211 @@
+📌 TCS NQT – Numerical Ability (Explanation & Solutions)
+
+The Numerical Ability section in TCS NQT tests mathematical reasoning, problem-solving, and numerical computation skills. Below, I will explain the questions from your uploaded document along with concepts and solutions.
+
+
+---
+
+🔹 1. LCM & HCF Problems
+
+✔ Concept:
+
+LCM (Least Common Multiple): Smallest number divisible by given numbers.
+
+HCF (Highest Common Factor): Largest number dividing given numbers exactly.
+
+
+📝 Example Question:
+
+Find the least value of "p" given that LCM(48, 144, p) = 720 and HCF(48, 144, p) = 24.
+
+✅ Solution:
+✔ Step 1: Find factors of given numbers:
+
+48 = 2⁴ × 3
+
+144 = 2⁴ × 3²
+
+LCM = 2⁴ × 3² × p = 720
+
+
+✔ Step 2: Solve for p:
+
+p = 120 satisfies both LCM and HCF conditions.
+
+
+✅ Answer: 120
+
+
+---
+
+🔹 2. Number System – Divisibility Rules
+
+✔ Concept:
+
+A number is divisible by 9 if sum of digits is a multiple of 9.
+
+A number is divisible by 11 if (sum of odd-positioned digits - sum of even-positioned digits) is a multiple of 11.
+
+
+📝 Example Question:
+
+Which of the following numbers is divisible by 9, 11, or 12?
+Number: 19541742
+
+✅ Solution:
+✔ Sum of digits: 1+9+5+4+1+7+4+2 = 33 (Not a multiple of 9)
+✔ Difference (odd - even positions): (1+5+1+4) - (9+4+7+2) = 11 (Divisible by 11)
+
+✅ Answer: Divisible by 11 only
+
+
+---
+
+🔹 3. Percentage – Successive Percentage Change
+
+✔ Concept:
+When a value changes by x% and then by y%, the net percentage change is:
+
+\text{Net Change} = x + y + \frac{xy}{100}
+
+📝 Example Question:
+
+If petrol price increases by 35% and Rajesh increases his spending by only 25%, by how much % does he reduce the quantity?
+
+✅ Solution:
+✔ Use formula:
+
+\left(1 - \frac{1.25}{1.35} \right) \times 100
+
+✔ Solve:
+
+\left(1 - \frac{125}{135} \right) \times 100 = 11.11\%
+
+✅ Answer: 11% decrease in quantity
+
+
+---
+
+🔹 4. Profit & Loss
+
+✔ Concept:
+
+\text{Profit%} = \left(\frac{\text{SP} - \text{CP}}{\text{CP}}\right) \times 100
+
+\text{Selling Price (SP)} = \text{Marked Price (MP)} \times (1 - \text{Discount}) ]
+
+📝 Example Question:
+
+A shopkeeper marks an item 20% above cost price and gives a 15% discount. Find his profit%.
+
+✅ Solution:
+✔ Let CP = ₹100
+✔ Marked Price (MP) = 100 + 20 = ₹120
+✔ Selling Price (SP) = 120 × (85/100) = ₹102
+✔ Profit% = (102 - 100) / 100 × 100 = 2%
+
+✅ Answer: 2% profit
+
+
+---
+
+🔹 5. Time & Work
+
+✔ Concept:
+
+\text{Work Done} = \frac{\text{Efficiency} \times \text{Time}}{\text{Total Work}}
+
+📝 Example Question:
+
+6 men complete 1/3 of work in 12 days. 4 women complete 1/2 work in 27 days. How long will 3 men, 2 women, and 3 boys take?
+
+✅ Solution:
+✔ Find individual work efficiency of men & women.
+✔ Combine their work rates and calculate the total time required.
+
+✅ Answer: 36 days
+
+
+---
+
+🔹 6. Speed, Distance & Time
+
+✔ Concept:
+
+\text{Time} = \frac{\text{Distance}}{\text{Speed}}
+
+📝 Example Question:
+
+A boy walks 1 km at 5 km/h and then takes a bus at 40 km/h for 10 km. How long does he take to reach school?
+
+✅ Solution:
+✔ Walking Time:
+
+\frac{1}{5} = 0.2 \text{ hours} = 12 \text{ minutes}
+
+\frac{10}{40} = 0.25 \text{ hours} = 15 \text{ minutes}
+
+✅ Answer: 27 minutes
+
+
+---
+
+🔹 7. Geometry – Maximum Rod Length in a Cube
+
+✔ Concept:
+For a cube of surface area S,
+
+\text{Side Length } a = \sqrt{\frac{S}{6}}
+
+\text{Rod Length (Diagonal)} = \sqrt{3} \times a ]
+
+📝 Example Question:
+
+A magician hides a rod inside a cubical box with surface area 3042 cm². Find max rod length.
+
+✅ Solution:
+✔ Find Side Length:
+
+a = \sqrt{\frac{3042}{6}} = \sqrt{507} \approx 22.5
+
+\sqrt{3} \times 22.5 \approx 39 \text{ cm}
+
+✅ Answer: 39 cm
+
+
+---
+
+🔹 8. Data Interpretation – Factory Rejections
+
+✔ Concept:
+Use Ratios & Percentage Rules to calculate total production.
+
+📝 Example Question:
+
+A factory rejects 6% of produced parts. Another factory has 96 fewer rejected parts. Find total production.
+
+✅ Solution:
+✔ Let Factory A produce X parts.
+✔ Rejected = 6% of X = 0.06X
+✔ Other Factory Rejects 96 fewer → 0.06X - 96 = Other Factory’s rejected parts
+✔ Solve for X.
+
+✅ Answer: 4800
+
+
+---
+
+📌 Summary of Numerical Ability in TCS NQT
+
+
+---
+
+📌 Tips for Solving Numerical Ability in TCS NQT
+
+✔ Learn shortcut formulas for LCM, Percentages, Profit-Loss.
+✔ Memorize divisibility rules for quick calculations.
+✔ Practice mental math to improve speed.
+✔ Solve previous year TCS NQT questions.
+
+Would you like more practice problems or step-by-step solutions for any topic? 😊
+
